@@ -1,0 +1,5 @@
+1.intitle:   
+    搜索网页中<title></title>标签的中的关键字
+    语法 intitle:管理系统
+2.intext:
+    
